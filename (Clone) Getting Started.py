@@ -7,7 +7,7 @@ print("Run Python")
 # MAGIC %md
 # MAGIC # Getting Started
 # MAGIC ## Databricks
-# MAGIC ### Datalake
+# MAGIC
 
 # COMMAND ----------
 
